@@ -117,3 +117,25 @@ Inclua alimentos fermentados na dieta.
 Pratique atividade física regularmente.
 Durma bem.
 É importante ressaltar que ainda não existem estudos que comprovem a segurança e a eficácia a longo prazo do aumento da quantidade de Akkermansi. Portanto, é importante consultar um médico antes de tomar qualquer suplemento ou fazer qualquer mudança na dieta.
+
+---
+
+
+Prebióticos fáceis de encontrar:
+
+Frutas e vegetais: maçã, banana, ameixa, feijão, lentilha, grãos integrais, aveia, linhaça, sementes de chia, vegetais crucíferos (brócolis, couve-flor, repolho).
+Alimentos fermentados: iogurte, kefir, chucrute, kimchi.
+Outros: mel, aspargo, alho, cebola, alho-poró, chicória, alcachofra, banana verde, batata-doce.
+
+Probióticos fáceis de encontrar:
+
+Iogurte natural: é o mais comum dos probióticos e também o mais fácil de encontrar em qualquer mercearia ou supermercado.
+Leite fermentado: é um tipo de iogurte com um sabor mais ácido e uma textura mais cremosa.
+Kefir: é uma bebida fermentada feita a partir de leite, kefir e açúcar.
+Kombucha: é uma bebida fermentada feita a partir de chá preto, açúcar e bactérias e leveduras.
+Chucrute: é um tipo de conserva fermentada feita a partir de repolho.
+Miso: é um tempero fermentado feito a partir de soja, arroz ou cevada.
+Tempeh: é um alimento fermentado feito a partir de soja.
+Natto: é um alimento fermentado feito a partir de soja cozida e fermentada com bactérias.
+Kimchi: é um tipo de conserva fermentada feita a partir de repolho, cebola, alho, gengibre e outros vegetais.
+É importante ressaltar que a quantidade de probióticos e prebióticos presentes nos alimentos pode variar dependendo da marca, do tipo de alimento e do método de produção. Portanto, é sempre importante consultar o rótulo do produto para obter mais informações.
