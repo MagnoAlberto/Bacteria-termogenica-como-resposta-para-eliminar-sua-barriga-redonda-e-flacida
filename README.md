@@ -72,10 +72,6 @@ Atualmente, existem várias abordagens em estudo para aumentar os níveis de Akk
 
 ---
 
-
-1
-
-2
 A Akkermansia muciniphila é uma bactéria gram-negativa, anaeróbia, de formato oval, pertencente ao filo Verrucomicrobia e que possui um papel fundamental na interação hospedeiro-microbiota e na saúde intestinal.
 
 Ela é encontrada no intestino de humanos e de outros mamíferos, onde representa cerca de 3 a 5% da microbiota intestinal. A Akkermansia é um dos simbiontes normais ao longo da nossa vida, podendo colonizar o intestino humano de forma estável dentro de 1 ano após o nascimento.
@@ -139,3 +135,30 @@ Tempeh: é um alimento fermentado feito a partir de soja.
 Natto: é um alimento fermentado feito a partir de soja cozida e fermentada com bactérias.
 Kimchi: é um tipo de conserva fermentada feita a partir de repolho, cebola, alho, gengibre e outros vegetais.
 É importante ressaltar que a quantidade de probióticos e prebióticos presentes nos alimentos pode variar dependendo da marca, do tipo de alimento e do método de produção. Portanto, é sempre importante consultar o rótulo do produto para obter mais informações.
+
+---
+
+**Kefir, kimchi e kombucha são alimentos fermentados que contêm probióticos, que são bactérias vivas que podem ter benefícios para a saúde.**
+
+**Kefir** é uma bebida fermentada feita a partir de leite, kefir e açúcar. O kefir é uma boa fonte de probióticos, que podem ajudar a melhorar a saúde intestinal, a imunidade e a digestão.
+
+**Kimchi** é um tipo de conserva fermentada feita a partir de repolho, cebola, alho, gengibre e outros vegetais. O kimchi é uma boa fonte de probióticos, que podem ajudar a melhorar a saúde intestinal, a imunidade e a digestão.
+
+**Kombucha** é uma bebida fermentada feita a partir de chá preto, açúcar e bactérias e leveduras. A kombucha é uma boa fonte de probióticos, que podem ajudar a melhorar a saúde intestinal, a imunidade e a digestão.
+
+**Alguns dos benefícios potenciais do kefir, kimchi e kombucha incluem:**
+
+* **Melhoria da saúde intestinal:** Os probióticos presentes nesses alimentos podem ajudar a restaurar o equilíbrio da microbiota intestinal, que é importante para a saúde geral.
+* **Redução do risco de doenças crônicas:** Os probióticos podem ajudar a reduzir o risco de doenças crônicas, como obesidade, diabetes tipo 2, doenças cardíacas e distúrbios gastrointestinais.
+* **Fortalecimento do sistema imunológico:** Os probióticos podem ajudar a fortalecer o sistema imunológico, o que pode ajudar o corpo a combater infecções.
+* **Melhoria da digestão:** Os probióticos podem ajudar a melhorar a digestão, o que pode reduzir o risco de constipação e outros problemas digestivos.
+
+**É importante ressaltar que ainda são necessários mais estudos para confirmar os benefícios potenciais do kefir, kimchi e kombucha.** No entanto, esses alimentos são uma boa fonte de probióticos e podem ser uma maneira de melhorar a saúde geral.
+
+**Aqui estão algumas dicas para consumir kefir, kimchi e kombucha:**
+
+* **Kefir:** O kefir pode ser consumido puro ou adicionado a smoothies, iogurtes ou cereais.
+* **Kimchi:** O kimchi pode ser consumido como acompanhamento ou adicionado a pratos de carne, peixe ou vegetais.
+* **Kombucha:** A kombucha pode ser consumida pura ou adicionado a sucos ou chás.
+
+**É importante consultar um médico antes de consumir kefir, kimchi ou kombucha, especialmente se você tiver alguma condição médica.**
